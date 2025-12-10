@@ -1,0 +1,14 @@
+jupyterlab
+python-dotenv
+langchain
+langchain-tavily
+langchain-openai
+langchain-pinecone
+langchain-text-splitters
+langchain-community
+langchain-experimental
+langchain-chroma
+rich
+streamlit
+tabulate
+pytest
